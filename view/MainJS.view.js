@@ -9,4 +9,5 @@ sap.ui.jsview("com.ibm.simpleapp.view.MainJS",{
         });
         return oButton;
         },
-});
+   });
+
