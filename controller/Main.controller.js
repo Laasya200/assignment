@@ -34,7 +34,7 @@ sap.ui.define(["sap/ui/core/mvc/Controller"], function (Controller, Device) {
         var oInput = new sap.m.Input();
         oId.addContent(oInput);
       },*/
-      onPressFrgamnet: function () {
+      onPressFragment: function () {
         var oVerticalLayout = this.getView().byId("idVL");
         var oView = this.getView();
         sap.ui.require(
